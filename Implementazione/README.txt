@@ -1,4 +1,4 @@
-Per la corretta esecuzione del sistema vanno installate le seguenti librerie python di cui si è fatto uso (alcune probabilmente già installate di default):
+Per la corretta esecuzione del sistema vanno installate le seguenti librerie python di cui si è fatto uso:
 
 - flask
 - cryptography
